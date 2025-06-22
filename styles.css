@@ -1,10 +1,22 @@
-
-/* Your CSS Code here. */
 .holder{
+	
 	display:flex;
 	justify-content:space-between;
-	flex-wrap:wrap;
-	padding:10px;
-
+	flex-wrap:wrap
 	
+}
+.item{
+	width:160px;
+	height:160px;
+	font-size:60px;
+	
+}
+.one{
+	background-color:green;
+}
+.two{
+	background-color:red;
+}
+.three{
+	background-color:blue;
 }
